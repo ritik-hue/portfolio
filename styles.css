@@ -1,0 +1,14 @@
+.navbar a{background-color:mediumturquoise;
+    padding:  12px 14px }
+header{min-height:50vh; display:flex ;justify-content: center;
+    text-align: center;align-items: center;
+    text-decoration-color: aqua; background-color: violet;}
+.about{margin:50px;}
+.about .content{display: flex;}
+.about h1{text-align:center;}
+.about img{max-width:350px;margin-left: 30px;}
+.about p{font-size:17px;text-decoration: wavy;margin-left: 20px;color: lightblue;}
+.about button{margin-left:20px;justify-content: center; padding:  12px 14px}
+.service h1{text-align: center;}
+.card{padding: 20 px 10 px; background-color: rosybrown;border:solid black;margin:0px 60px;}
+.service .container{display: flex;}
